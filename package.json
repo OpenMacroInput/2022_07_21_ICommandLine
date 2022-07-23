@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.icommandline",                              
+  "displayName": "DefaultCopyMe",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package contain interface and utility to manage ICommandLine that is consider as action to be trigger by interpreter.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/OpenMacroInput/2022_07_21_ICommandLine.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
